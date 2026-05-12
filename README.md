@@ -15,9 +15,6 @@ understanding and expense tracking. Conducted quantitative analysis to
 measure the gap between financial awareness and actual financial behavior 
 — a core problem in fintech and policy design.
 
-Translated findings into a professional KPI dashboard built in Python, 
-surfacing composite literacy scores, segment-level metrics and 
-data-backed recommendations.
 
 ## Key Findings
 - 81% never received any formal financial literacy training
@@ -26,6 +23,4 @@ data-backed recommendations.
 - Composite Literacy Index: 61.7% across all respondents
 
 ## Tools Used
-- Python — pandas, openpyxl
 - Microsoft Excel
-- Jupyter Notebook
