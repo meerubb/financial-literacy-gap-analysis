@@ -3,7 +3,7 @@ Surveyed 63 NUCES students on financial behaviors, visualized data patterns  thr
 
 ##  Financial Literacy Gap Analysis
 
-##Overview
+__Overview__
 Designed and distributed a structured survey instrument across NUCES 
 students to collect behavioral data on personal finance habits. Gathered 
 63 responses spanning demographics including age, gender, degree program 
